@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeepNotes</string>
+    <string name="note_title">Note Title</string>
+    <string name="timestamp">TimeStamp</string>
+    <string name="button">Button</string>
+    <string name="enter_note_description">Enter Note Description</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="notetitle">Note Title</string>
+    <string name="updated_at">Updated At:</string>
+    <string name="delete_note">Delete Note</string>
+</resources>
